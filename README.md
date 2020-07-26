@@ -1,4 +1,4 @@
-<h1> Hi, everyone! <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" width="100"></h1>
+<h1> Hi, everyone! <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" width="70"></h1>
 
 <h3>About me</h3>
 
@@ -6,9 +6,9 @@
 
 🎓 MSc in High Performance Computing.
 
-🖥 Researcher at @citiususc.
+🖥 Researcher at [@citiususc](https://www.github.com/citiususc).
 
-<img src=https://emojis.slackmojis.com/emojis/images/1563874283/6032/gdg.png?1563874283 width="30"> GDG Santiago co-organizer.
+<img src=https://emojis.slackmojis.com/emojis/images/1563874283/6032/gdg.png?1563874283 width="18"> GDG Santiago co-organizer.
 
 <h3>How to reach me</h3>
 
