@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1> Hi, everyone! <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" width="100"></h1>
 
-<!--
-**silviaralcaraz/silviaralcaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>About me</h3>
 
-Here are some ideas to get you started:
+🎓 BSc in Computer Science and Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MSc in High Performance Computing.
+
+🖥 Researcher at @citiususc.
+
+<img src=https://emojis.slackmojis.com/emojis/images/1563874283/6032/gdg.png?1563874283 width="30"> GDG Santiago co-organizer.
+
+<h3>How to reach me</h3>
+
+[![Linkedin: silviaralcaraz](https://img.shields.io/badge/linkedin-silviaralcaraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviaralcaraz/)](https://www.linkedin.com/in/silviaralcaraz/)
+
+[![Twitter: silviaralcaraz](https://img.shields.io/twitter/url?label=silviaralcaraz&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fsilviaralcaraz)](https://twitter.com/silviaralcaraz)
