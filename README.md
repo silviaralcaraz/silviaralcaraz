@@ -6,6 +6,8 @@
 
 🎓 MSc in High Performance Computing.
 
+🎓 PhD student in Information Technology.
+
 🖥 Researcher at [@citiususc](https://www.github.com/citiususc).
 
 <img src=https://emojis.slackmojis.com/emojis/images/1563874283/6032/gdg.png?1563874283 width="18"> GDG Santiago co-organizer.
